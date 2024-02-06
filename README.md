@@ -116,3 +116,4 @@ Other files implement the query bindings between the linked hREA app DNAs and Gr
 ## License
 
 Licensed under an Apache 2.0 license.
+# vf-graphql-holochain
